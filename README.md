@@ -7,3 +7,4 @@
 - [Homework-3_27_11](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2027.11)
 - [Homework-4_28_11](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2028.11)
 - [Homework-5_11_12](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2011.12_Hanoi)
+- [Homework-6_12_12](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework_12_12)
