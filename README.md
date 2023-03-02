@@ -9,4 +9,4 @@
 - [Homework-5_11_12](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2011.12_Hanoi)
 - [Homework-6_12_12](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework_12_12)
 - [Homework-7_22_12](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework_19_12_Quick_sort)
-- [Homework-8_28_03](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2028_02_DFS)
+- [Homework-8_28_02](https://github.com/AlexDolz/Algorithms-Homeworks-JS-/tree/main/Algorithms%20homework%2028_02_DFS)
